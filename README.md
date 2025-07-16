@@ -11,7 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FEF9E7?style=for-the-badge&logo=javascript&logoColor=7D6608)
 ![Firebase](https://img.shields.io/badge/Firebase-FDEBD0?style=for-the-badge&logo=firebase&logoColor=7E5109)
 ![Git](https://img.shields.io/badge/Git-FADBD8?style=for-the-badge&logo=git&logoColor=641E16)
-![Shell](https://img.shields.io/badge/Shell-FEF5E7?style=for-the-badge&logo=gnu-bash&logoColor=1C2833)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💻 Software Used
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
