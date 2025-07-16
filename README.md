@@ -14,7 +14,7 @@
 ![Shell](https://img.shields.io/badge/Shell-FEF5E7?style=for-the-badge&logo=gnu-bash&logoColor=1C2833)
 
 ## 💻 Software Used
-![Arch](https://img.shields.io/badge/Arch-D6EAF8?style=for-the-badge&logo=arch-linux&logoColor=154360)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FADBD8?style=for-the-badge&logo=ubuntu&logoColor=943126)
 ![Linux](https://img.shields.io/badge/Linux-FDF2E9?style=for-the-badge&logo=linux&logoColor=784212)
 ![Android](https://img.shields.io/badge/Android-D5F5E3?style=for-the-badge&logo=android&logoColor=145A32)
