@@ -36,11 +36,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthshukla20&show_icons=true&theme=radical&count_private=true&hide=prs"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthshukla20&layout=compact&theme=radical"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarthshukla20&theme=onedark"/>
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthshukla20&theme=react-dark"/>
 </p>
