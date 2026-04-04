@@ -1,6 +1,5 @@
 # Samarth Shukla
 ## Branch - B.Tech CSE (AIML) | Year - 2025-29
-### I would like to learn more about AI models and their traning for better future
 
 ## Spoken Languages
 - Hindi
